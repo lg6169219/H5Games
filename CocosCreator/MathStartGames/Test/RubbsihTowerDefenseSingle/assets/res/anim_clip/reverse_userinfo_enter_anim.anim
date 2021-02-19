@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "reverse_userinfo_enter_anim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.45,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "36",
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            -496
+          ]
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            0,
+            23
+          ]
+        },
+        {
+          "frame": 0.38333333333333336,
+          "value": [
+            0,
+            23
+          ]
+        },
+        {
+          "frame": 0.45,
+          "value": [
+            0,
+            -28
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

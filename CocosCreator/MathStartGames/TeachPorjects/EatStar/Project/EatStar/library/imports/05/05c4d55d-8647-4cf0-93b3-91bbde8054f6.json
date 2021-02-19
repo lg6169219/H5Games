@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "player_left_jump007",
+    "texture": "08577468-ec29-4345-b2cd-74f84cef6d6c",
+    "atlas": "78ce3507-14ae-4398-944a-90f892a536c8",
+    "rect": [
+      905,
+      519,
+      136,
+      220
+    ],
+    "offset": [
+      0,
+      -10
+    ],
+    "originalSize": [
+      138,
+      240
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

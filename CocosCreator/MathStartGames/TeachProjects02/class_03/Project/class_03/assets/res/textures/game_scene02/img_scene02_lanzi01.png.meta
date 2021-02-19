@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "728ecfc0-67ac-4e00-a5cf-0893f6b55ed8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "img_scene02_lanzi01": {
+      "ver": "1.0.3",
+      "uuid": "66444db9-4b76-40ce-a789-67b260deabe1",
+      "rawTextureUuid": "728ecfc0-67ac-4e00-a5cf-0893f6b55ed8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -15.5,
+      "trimX": 0,
+      "trimY": 31,
+      "width": 223,
+      "height": 50,
+      "rawWidth": 223,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

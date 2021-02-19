@@ -1,0 +1,79 @@
+2019-05-16T10:13:33.502Z - normal: Load ~/.CocosCreator/settings.json
+2019-05-16T10:13:34.698Z - normal: Initializing Asset Database
+2019-05-16T10:13:34.705Z - normal: checking language setting...
+2019-05-16T10:13:34.705Z - normal: Language: zh
+2019-05-16T10:13:35.723Z - success: preview server running at http://localhost:7457
+2019-05-16T10:13:35.724Z - success: protocol editor-framework registered
+2019-05-16T10:13:35.724Z - success: protocol app registered
+2019-05-16T10:13:35.724Z - success: protocol theme registered
+2019-05-16T10:13:35.724Z - success: protocol packages registered
+2019-05-16T10:13:35.724Z - success: protocol uuid registerred
+2019-05-16T10:13:35.725Z - success: protocol db registerred
+2019-05-16T10:13:35.725Z - success: protocol thumbnail registerred
+2019-05-16T10:13:35.725Z - success: protocol unpack registerred
+2019-05-16T10:13:35.725Z - success: protocol disable-commonjs registerred
+2019-05-16T10:13:36.502Z - normal: connected!
+2019-05-16T10:13:36.503Z - normal: Check project C:\Users\aa\Desktop\CocosCreatorProjects\CocosCreatorProject\TeachPorjects\EatStar\Project\EatStar
+2019-05-16T10:13:36.505Z - normal: Initializing project C:\Users\aa\Desktop\CocosCreatorProjects\CocosCreatorProject\TeachPorjects\EatStar\Project\EatStar
+2019-05-16T10:13:37.024Z - normal: Initializing Cocos2d
+2019-05-16T10:13:37.983Z - normal: Initializing engine extends
+2019-05-16T10:13:38.012Z - success: asset-db-debugger loaded
+2019-05-16T10:13:38.017Z - success: baidu-adapter loaded
+2019-05-16T10:13:38.022Z - success: code-editor loaded
+2019-05-16T10:13:38.024Z - success: color-picker loaded
+2019-05-16T10:13:38.128Z - success: fb-audience-network loaded
+2019-05-16T10:13:38.203Z - success: fb-live-stream loaded
+2019-05-16T10:13:38.211Z - success: google-play-instant loaded
+2019-05-16T10:13:38.223Z - success: huawei-runtime loaded
+2019-05-16T10:13:38.227Z - success: jsb-adapter loaded
+2019-05-16T10:13:38.240Z - success: oppo-runtime loaded
+2019-05-16T10:13:38.256Z - success: package-manager loaded
+2019-05-16T10:13:38.405Z - success: qqplay-adapter loaded
+2019-05-16T10:13:38.407Z - success: runtime-dev-tools loaded
+2019-05-16T10:13:38.411Z - success: sdkbox loaded
+2019-05-16T10:13:38.415Z - success: tester loaded
+2019-05-16T10:13:38.417Z - success: ui-grid loaded
+2019-05-16T10:13:38.421Z - success: ui-kit-preview-extra loaded
+2019-05-16T10:13:38.423Z - success: ui-kit-preview loaded
+2019-05-16T10:13:38.424Z - success: ui-kit loaded
+2019-05-16T10:13:38.426Z - success: ui-tree loaded
+2019-05-16T10:13:38.430Z - success: vivo-runtime loaded
+2019-05-16T10:13:38.431Z - success: weapp-adapter loaded
+2019-05-16T10:13:38.478Z - success: assets loaded
+2019-05-16T10:13:38.480Z - success: builder loaded
+2019-05-16T10:13:38.809Z - success: cocos-services loaded
+2019-05-16T10:13:38.814Z - success: console loaded
+2019-05-16T10:13:38.855Z - success: fb-instant-games loaded
+2019-05-16T10:13:38.856Z - success: google-instant-games loaded
+2019-05-16T10:13:38.861Z - success: hierarchy loaded
+2019-05-16T10:13:38.864Z - success: inspector loaded
+2019-05-16T10:13:38.865Z - success: keystore loaded
+2019-05-16T10:13:38.870Z - success: node-library loaded
+2019-05-16T10:13:38.873Z - success: package-asset loaded
+2019-05-16T10:13:38.876Z - success: preferences loaded
+2019-05-16T10:13:38.877Z - success: project-exporter loaded
+2019-05-16T10:13:38.879Z - success: project-importer loaded
+2019-05-16T10:13:38.882Z - success: project-settings loaded
+2019-05-16T10:13:38.886Z - success: scene loaded
+2019-05-16T10:13:38.890Z - success: simulator-debugger loaded
+2019-05-16T10:13:38.892Z - success: sprite-editor loaded
+2019-05-16T10:13:38.897Z - success: store loaded
+2019-05-16T10:13:38.902Z - success: timeline loaded
+2019-05-16T10:13:39.018Z - success: gen_navmesh loaded
+2019-05-16T10:13:40.811Z - info: Cocos Services load base data!
+2019-05-16T10:13:42.057Z - normal: Loading packages
+2019-05-16T10:13:42.067Z - normal: Watching packages
+2019-05-16T10:13:43.061Z - normal: Run Application
+2019-05-16T10:13:50.693Z - failed: Task [sync-prefab] run error, stop running other tasks.
+ TypeError: Cannot read property '_prefab' of null
+    at C:\CocosCreator2.0.9\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:7383
+    at f (C:\CocosCreator2.0.9\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:781)
+    at Object.c.syncPrefab (C:\CocosCreator2.0.9\resources\app.asar\editor\page\scene-utils\utils\prefab.js:1:7339)
+    at Object._syncPrefab (C:\CocosCreator2.0.9\resources\app.asar\editor\page\scene-utils\index.js:1:9610)
+    at _queue.s.queue (C:\CocosCreator2.0.9\resources\app.asar\editor\page\scene-utils\lib\tasks.js:1:539)
+    at C:\CocosCreator2.0.9\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (C:\CocosCreator2.0.9\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2019-05-16T10:14:18.354Z - info: shutdown preview server

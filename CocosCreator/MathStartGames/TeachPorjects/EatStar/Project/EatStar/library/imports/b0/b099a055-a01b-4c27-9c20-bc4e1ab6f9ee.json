@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_life",
+    "texture": "9ff824d4-ae97-4576-a09a-cae75ace0df5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

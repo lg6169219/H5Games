@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "2628ae60-8855-4e55-8ad6-2fc003377fad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "build_fasi_icon": {
+      "ver": "1.0.3",
+      "uuid": "73c1364b-38b6-43ea-bd82-b3862adee579",
+      "rawTextureUuid": "2628ae60-8855-4e55-8ad6-2fc003377fad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 46,
+      "height": 43,
+      "rawWidth": 46,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "5a9daa9f-b0f6-41f6-90a1-6db2ccd86f8c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "img_diban_pintu2": {
+      "ver": "1.0.3",
+      "uuid": "d8c81865-3bad-46c1-a75e-c16614151694",
+      "rawTextureUuid": "5a9daa9f-b0f6-41f6-90a1-6db2ccd86f8c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 121,
+      "height": 241,
+      "rawWidth": 121,
+      "rawHeight": 241,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

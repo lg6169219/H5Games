@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "damuge",
+    "texture": "32f91dda-7d6c-44f4-b93b-26a0101445fd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      84
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      102,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

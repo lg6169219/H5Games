@@ -1,0 +1,166 @@
+{
+  "game_content": {
+      "btn_hammer": {
+          "type": "btn",
+          "image": {
+              "width": 366,
+              "height": 298,
+              "scaleX": 0.6,
+              "scaleY": 0.6,
+              "x": 0,
+              "y": 0,
+              "res": "",
+              "atlas" : "atlas/hammer"
+          },
+          "animate_play": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "res": "hammer_hit",
+              "loop": false
+          },
+          "animate_stop": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "res": "hammer_stop",
+              "loop": true
+          }
+      },
+      "btn_molepfx": {
+        "type": "btn",
+        "image": {
+            "width": 366,
+            "height": 298,
+            "scaleX": 1,
+            "scaleY": 1,
+            "x": -38,
+            "y": -215,
+            "res": "",
+            "atlas" : "atlas/molepfx"
+        },
+        "animate_play": {
+            "x": 0,
+            "y": 0,
+            "scale": 1,
+            "res": "molepfx_hit",
+            "loop": true
+        }
+      },
+      "dishu_content": {
+          "btn_dishu1": {
+              "type": "btn",
+              "targetname" : "阿呆",
+              "audio_content": {
+                "type": "audio",
+                "res": "audio/adai",
+                "audioVolume": 0.7,
+                "loop": false
+              },   
+              "image": {
+                  "type": "img",
+                  "res": "",
+                  "atlas" : "atlas/mouse1"
+              },
+              "animate_play": {
+                  "type": "animate",
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1,
+                  "res": "mouse1_hit",
+                  "loop": true
+              },
+              "animate_stop": {
+                  "type": "animate",
+                  "x": 0,
+                  "y": 0,
+                  "scale": 1,
+                  "res": "mouse1_normal",
+                  "loop": true
+              }
+          },
+          "btn_dishu2": {
+                "type": "btn",
+                "targetname" : "多多",
+                "audio_content": {
+                    "type": "audio",
+                    "res": "audio/duoduo",
+                    "audioVolume": 0.7,
+                    "loop": false
+                  },
+                "image": {
+                    "type": "img",
+                    "res": "",
+                    "atlas" : "atlas/mouse2"
+                },
+                "animate_play": {
+                    "type": "animate",
+                    "res": "mouse2_hit",
+                    "loop": true
+                },
+                "animate_stop": {
+                    "type": "animate",
+                    "res": "mouse2_normal",
+                    "loop": true
+                }
+          },
+          "btn_dishu3": {
+            "type": "btn",
+            "targetname" : "犀牛上校",
+            "audio_content": {
+                "type": "audio",
+                "res": "audio/xiniushangxiao",
+                "audioVolume": 0.7,
+                "loop": false
+              },
+            "image": {
+                "type": "img",
+                "res": "",
+                "atlas" : "atlas/xiniu"
+            },
+            "animate_play": {
+                "type": "animate",
+                "res": "xiniu_hit",
+                "loop": true
+            },
+            "animate_stop": {
+                "type": "animate",
+                "res": "xiniu_normal",
+                "loop": true
+            }
+          }
+       }
+  },
+  "game_sound": {
+      "audio_bg": {
+          "type": "audio",
+          "res": "audio/audio_bg01",
+          "audioVolume": 0.5,
+          "loop": true
+      },
+      "audio_success": {
+          "type": "audio",
+          "res": "audio/audio_right",
+          "audioVolume": 0.6,
+          "loop": false
+      },
+      "audio_error": {
+          "type": "audio",
+          "res": "audio/audio_error",
+          "audioVolume": 0.6,
+          "loop": false
+      },
+      "audio_click": {
+          "type": "audio",
+          "res": "audio/buttonclick",
+          "audioVolume": 0.6,
+          "loop": false
+      },
+      "audio_end": {
+        "type": "audio",
+        "res": "audio/audio_end",
+        "audioVolume": 0.7,
+        "loop": false
+      }   
+  }
+}

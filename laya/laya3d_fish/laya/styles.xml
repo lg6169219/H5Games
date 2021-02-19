@@ -1,0 +1,4 @@
+<res>
+   <item name="res/ui/common_image/btn_green_click.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,24,31,25" picType="0" scale="0"/>
+   <item name="res/ui/common_image/btn_green.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,27,36,27" picType="0" scale="0"/>
+</res>

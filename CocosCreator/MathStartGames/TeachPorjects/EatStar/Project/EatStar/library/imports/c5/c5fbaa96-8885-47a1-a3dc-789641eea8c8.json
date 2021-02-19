@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boom_baozha07",
+    "texture": "c9db04fe-6272-4fd4-80cf-1b7d94553b6d",
+    "atlas": "c9f4a0c0-b830-49c5-8610-bfd9b31e6890",
+    "rect": [
+      147,
+      1,
+      150,
+      142
+    ],
+    "offset": [
+      5,
+      -3
+    ],
+    "originalSize": [
+      160,
+      148
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

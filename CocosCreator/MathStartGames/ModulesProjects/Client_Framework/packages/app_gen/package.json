@@ -1,0 +1,18 @@
+{
+  "name": "app_gen",
+  "version": "1.0.0",
+  "description": "app gen",
+  "author": "Blake",
+  "main": "main.js",
+  "main-menu": {
+	"bycw/生成UI_ctrl代码模板" : {
+	  "message": "app_gen:gen"
+	},
+	
+	"bycw/生成App模板" : {
+	  "message": "app_gen:gen_app"
+	}
+  },
+  
+  "scene-script": "gen_ui.js"
+}

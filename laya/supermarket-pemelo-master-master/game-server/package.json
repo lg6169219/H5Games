@@ -1,0 +1,14 @@
+{
+  "name": "treasures",
+  "version": "0.2.0",
+  "private": false,
+  "dependencies": {
+    "bearcat": "^0.4.29",
+    "crc": ">=0.0.1",
+    "generic-pool": "^3.4.2",
+    "mysql": "^2.15.0",
+    "pomelo": "^2.2.3",
+    "pomelo-collection": ">=0.1.0",
+    "pomelo-logger": "0.1.x"
+  }
+}
